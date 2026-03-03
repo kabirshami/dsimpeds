@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Reviews | Dr Shahid Iqbal Malik</title>
+  <meta name="description" content="Patient reviews and feedback for Dr Shahid Iqbal Malik." />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div class="nav">
+      <a class="brand" href="index.html">
+        <img src="assets/logo.png" alt="Logo" onerror="this.src='assets/profile.jpg'">
+        <div>
+          <strong>Dr Shahid Iqbal Malik</strong>
+          <span>Pediatric Neurosurgery • Lahore</span>
+        </div>
+      </a>
+
+      <div class="actions">
+        <button class="iconbtn menu-btn" data-menu-btn aria-label="Open menu">☰</button>
+        <button class="iconbtn" data-theme-toggle aria-label="Switch theme">🌓</button>
+        <a class="btn btn-primary" href="appointment.html">Book Appointment</a>
+      </div>
+
+      <nav class="navlinks" data-navlinks>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Treatments</a>
+        <a href="appointment.html">Appointments</a>
+        <a href="reviews.html">Reviews</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<main class="section">
+  <div class="container">
+    <h1 class="section-title reveal">Reviews</h1>
+    <p class="section-sub reveal">Real feedback helps parents choose with confidence. You can also leave a review on Google.</p>
+
+    <div class="card reveal" style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;">
+      <div>
+        <div class="card-title">Leave a Google Review</div>
+        <div class="small">Your feedback is appreciated.</div>
+      </div>
+      <a class="btn btn-primary" target="_blank" rel="noopener"
+         href="https://g.page/r/Cc5_HkgIw6O0EAE/review">Write a Review</a>
+    </div>
+
+    <section class="section">
+      <div class="grid cards-3">
+        <div class="card reveal">
+          <div class="badge">★★★★★ <span class="small">A.R.</span></div>
+          <p class="muted">Highly satisfied with the treatment and guidance. Very professional and caring.</p>
+        </div>
+        <div class="card reveal">
+          <div class="badge">★★★★★ <span class="small">M.K.</span></div>
+          <p class="muted">Excellent doctor. Communication was clear and supportive for parents.</p>
+        </div>
+        <div class="card reveal">
+          <div class="badge">★★★★★ <span class="small">S.H.</span></div>
+          <p class="muted">Great experience. Consultation was smooth and helpful.</p>
+        </div>
+        <div class="card reveal">
+          <div class="badge">★★★★★ <span class="small">H.A.</span></div>
+          <p class="muted">Very kind and knowledgeable. We felt confident after consultation.</p>
+        </div>
+        <div class="card reveal">
+          <div class="badge">★★★★★ <span class="small">Z.N.</span></div>
+          <p class="muted">Excellent treatment planning and careful follow-up guidance.</p>
+        </div>
+        <div class="card reveal">
+          <div class="badge">★★★★★ <span class="small">R.F.</span></div>
+          <p class="muted">Professional approach with compassion. Highly recommended.</p>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</main>
+
+<footer>
+  <div class="container footer-grid">
+    <div>
+      <strong style="color:var(--text);">Dr Shahid Iqbal Malik</strong>
+      <div class="small">Pediatric Neurosurgery • Lahore</div>
+    </div>
+    <div>
+      <strong style="color:var(--text);">Clinic</strong>
+      <div class="small">Mon–Sat: 04:00 PM – 07:00 PM</div>
+    </div>
+    <div>
+      <strong style="color:var(--text);">Contact</strong>
+      <div class="small"><a href="tel:+923064572592">0306 4572 592</a></div>
+      <div class="small">© <span id="y"></span> All rights reserved.</div>
+    </div>
+  </div>
+</footer>
+
+<a class="whatsapp-float" target="_blank" rel="noopener"
+   href="https://wa.me/923064572592?text=Assalam%20o%20Alaikum%2C%20I%20want%20to%20book%20an%20appointment%20for%20my%20child.">
+  💬 <span>Chat on WhatsApp</span>
+</a>
+
+<script src="js/main.js"></script>
+<script>document.getElementById("y").textContent = new Date().getFullYear();</script>
+</body>
+</html>

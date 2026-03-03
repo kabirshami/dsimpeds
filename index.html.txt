@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dr Shahid Iqbal Malik | Pediatric Neurosurgery | Lahore</title>
+  <meta name="description" content="Dr Shahid Iqbal Malik (MBBS, FCPS Pediatric Surgery, MS Pediatric Neurosurgery) – Pediatric brain & spine care in Lahore. Appointments Mon–Sat 4–7 PM." />
+
+  <meta property="og:title" content="Dr Shahid Iqbal Malik | Pediatric Neurosurgery" />
+  <meta property="og:description" content="Excellence in Every Child’s Brain Care. Book appointment in Lahore." />
+  <meta property="og:type" content="website" />
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div class="nav">
+      <a class="brand" href="index.html">
+        <img src="assets/logo.png" alt="Logo" onerror="this.src='assets/profile.jpg'">
+        <div>
+          <strong>Dr Shahid Iqbal Malik</strong>
+          <span>Pediatric Neurosurgery • Lahore</span>
+        </div>
+      </a>
+
+      <div class="actions">
+        <button class="iconbtn menu-btn" data-menu-btn aria-label="Open menu">☰</button>
+        <button class="iconbtn" data-theme-toggle aria-label="Switch theme">🌓</button>
+        <a class="btn btn-primary" href="appointment.html">Book Appointment</a>
+      </div>
+
+      <nav class="navlinks" data-navlinks>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Treatments</a>
+        <a href="appointment.html">Appointments</a>
+        <a href="reviews.html">Reviews</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="reveal">
+        <div class="badge">🧠 <span class="small">Excellence in Every Child’s Brain Care</span></div>
+        <h1 class="h1">Dr Shahid Iqbal Malik</h1>
+        <p class="hero-sub">
+          MBBS (PB) • FCPS Pediatric Surgery • MS Pediatric Neurosurgery
+        </p>
+        <p class="muted" style="max-width:70ch;margin:0;">
+          Pediatric neurosurgery is not just surgery; it’s about protecting a child’s future. Every case demands precision,
+          patience, and deep care. I have successfully performed over 5000+ cases so far, and my goal is simple:
+          to give every child a healthy life and hope for tomorrow.
+        </p>
+
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="appointment.html">Book Appointment</a>
+          <a class="btn" href="tel:+923064572592">Call Now</a>
+          <a class="btn btn-ghost" href="contact.html">Get Directions</a>
+        </div>
+
+        <hr class="hr">
+        <div class="grid cards-4">
+          <div class="card">
+            <div class="card-title">10+ Years</div>
+            <div class="small">Experience</div>
+          </div>
+          <div class="card">
+            <div class="card-title">5000+</div>
+            <div class="small">Cases Managed</div>
+          </div>
+          <div class="card">
+            <div class="card-title">Mon–Sat</div>
+            <div class="small">04:00 PM – 07:00 PM</div>
+          </div>
+          <div class="card">
+            <div class="card-title">Lahore</div>
+            <div class="small">Ferozepur Road, Ghazi Chowk</div>
+          </div>
+        </div>
+      </div>
+
+      <aside class="profile-card reveal">
+        <div class="profile">
+          <img src="assets/profile.jpg" alt="Dr Shahid Iqbal Malik">
+          <div>
+            <div class="name">Dr Shahid Iqbal Malik</div>
+            <div class="role">Pediatric Neurosurgery</div>
+          </div>
+        </div>
+
+        <div class="kpi">
+          <div class="k">
+            <div class="n">Children’s Hospital Lahore</div>
+            <div class="t">Serving since 2016</div>
+          </div>
+          <div class="k">
+            <div class="n">Online Consultation</div>
+            <div class="t">Available</div>
+          </div>
+        </div>
+
+        <hr class="hr">
+        <div class="small">
+          <strong>Clinic:</strong> Lahore Care Hospital, Main Ferozepur Road, Ghazi Chowk, Lahore
+        </div>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:12px;">
+          <a class="btn btn-primary" href="appointment.html">Book</a>
+          <a class="btn" href="contact.html">Contact</a>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- Treatments Preview -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title reveal">Conditions & Treatments</h2>
+      <p class="section-sub reveal">Specialized care for pediatric brain & spine conditions with a focus on safety, precision, and recovery.</p>
+
+      <div class="grid cards-3">
+        <div class="card reveal"><div class="icon">🧠</div><div class="card-title">Hydrocephalus</div><div class="small">Evaluation & surgical management.</div></div>
+        <div class="card reveal"><div class="icon">🧬</div><div class="card-title">Spina Bifida</div><div class="small">Child-focused spine care.</div></div>
+        <div class="card reveal"><div class="icon">🩺</div><div class="card-title">Head Trauma</div><div class="small">Emergency assessment & guidance.</div></div>
+        <div class="card reveal"><div class="icon">🧷</div><div class="card-title">Craniosynostosis</div><div class="small">Multi-structure cranial care.</div></div>
+        <div class="card reveal"><div class="icon">🧫</div><div class="card-title">Brain Abscess</div><div class="small">Diagnosis and treatment planning.</div></div>
+        <div class="card reveal"><div class="icon">🎯</div><div class="card-title">Brain & Spinal Tumors</div><div class="small">Specialist consult & management.</div></div>
+      </div>
+
+      <div style="margin-top:16px;display:flex;gap:12px;flex-wrap:wrap;">
+        <a class="btn btn-primary" href="services.html">View All Treatments</a>
+        <a class="btn" href="reviews.html">Read Reviews</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why Choose -->
+  <section class="section">
+    <div class="container split">
+      <div class="card reveal">
+        <h3 class="section-title" style="margin:0 0 6px;">Why Choose Dr Malik</h3>
+        <p class="muted" style="margin:0 0 14px;">
+          Compassionate pediatric neurosurgical care with clear guidance for parents and a strong focus on patient safety.
+        </p>
+        <ul class="muted" style="margin:0;padding-left:18px;">
+          <li>Precision-based treatment approach</li>
+          <li>Parent-friendly communication & counseling</li>
+          <li>Experience with complex brain & spine cases</li>
+          <li>Child safety and recovery planning</li>
+          <li>Advanced neurosurgical decision-making</li>
+        </ul>
+      </div>
+
+      <div class="card reveal">
+        <h3 class="section-title" style="margin:0 0 6px;">Quick Booking</h3>
+        <p class="muted" style="margin:0 0 14px;">Book an appointment quickly via WhatsApp or call.</p>
+        <div style="display:flex;gap:12px;flex-wrap:wrap;">
+          <a class="btn btn-primary" href="appointment.html">Book Appointment</a>
+          <a class="btn" href="tel:+923064572592">Call: 0306 4572592</a>
+        </div>
+        <hr class="hr">
+        <p class="small" style="margin:0;">
+          <strong>Timing:</strong> Monday to Saturday — 04:00 PM to 07:00 PM<br/>
+          <strong>Online Consultation:</strong> Yes
+        </p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="container footer-grid">
+    <div>
+      <div style="display:flex;align-items:center;gap:10px;">
+        <img src="assets/logo.png" alt="Logo" style="width:38px;height:38px;border-radius:12px;border:1px solid var(--border);" onerror="this.style.display='none'">
+        <div>
+          <strong style="color:var(--text);">Dr Shahid Iqbal Malik</strong>
+          <div class="small">Pediatric Neurosurgery • Lahore</div>
+        </div>
+      </div>
+      <p class="small" style="margin-top:10px;">
+        Excellence in Every Child’s Brain Care, Protecting Young Minds One Surgery at a Time.
+      </p>
+    </div>
+
+    <div>
+      <strong style="color:var(--text);">Clinic</strong>
+      <div class="small">Lahore Care Hospital, Main Ferozepur Road, Ghazi Chowk, Lahore</div>
+      <div class="small">Mon–Sat: 04:00 PM – 07:00 PM</div>
+    </div>
+
+    <div>
+      <strong style="color:var(--text);">Contact</strong>
+      <div class="small"><a href="tel:+923064572592">Call: 0306 4572 592</a></div>
+      <div class="small"><a href="mailto:drshahidiqbalmalik@gmail.com">drshahidiqbalmalik@gmail.com</a></div>
+      <div class="small" style="margin-top:8px;">© <span id="y"></span> All rights reserved.</div>
+    </div>
+  </div>
+</footer>
+
+<!-- Floating WhatsApp -->
+<a class="whatsapp-float" target="_blank" rel="noopener"
+   href="https://wa.me/923064572592?text=Assalam%20o%20Alaikum%2C%20I%20want%20to%20book%20an%20appointment%20for%20my%20child.">
+  💬 <span>Chat on WhatsApp</span>
+</a>
+
+<script src="js/main.js"></script>
+<script>document.getElementById("y").textContent = new Date().getFullYear();</script>
+</body>
+</html>

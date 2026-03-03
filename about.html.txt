@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About | Dr Shahid Iqbal Malik</title>
+  <meta name="description" content="About Dr Shahid Iqbal Malik — Pediatric Neurosurgery, qualifications, experience and clinical background." />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div class="nav">
+      <a class="brand" href="index.html">
+        <img src="assets/logo.png" alt="Logo" onerror="this.src='assets/profile.jpg'">
+        <div>
+          <strong>Dr Shahid Iqbal Malik</strong>
+          <span>Pediatric Neurosurgery • Lahore</span>
+        </div>
+      </a>
+
+      <div class="actions">
+        <button class="iconbtn menu-btn" data-menu-btn aria-label="Open menu">☰</button>
+        <button class="iconbtn" data-theme-toggle aria-label="Switch theme">🌓</button>
+        <a class="btn btn-primary" href="appointment.html">Book Appointment</a>
+      </div>
+
+      <nav class="navlinks" data-navlinks>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Treatments</a>
+        <a href="appointment.html">Appointments</a>
+        <a href="reviews.html">Reviews</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<main class="section">
+  <div class="container">
+    <h1 class="section-title reveal">About Dr Shahid Iqbal Malik</h1>
+    <p class="section-sub reveal">
+      Dedicated pediatric neurosurgery professional known for precision, compassionate care, and commitment to treating complex brain conditions in children.
+    </p>
+
+    <div class="split">
+      <div class="card reveal">
+        <h2 class="card-title">Biography</h2>
+        <p class="muted">
+          Dr. Shahid Iqbal Malik is a dedicated Pediatric Neurosurgery professional known for his commitment to treating complex brain conditions in children.
+          He completed his medical education from Quaid-e-Azam Medical College, where he built a strong foundation in medical sciences and patient care.
+        </p>
+        <p class="muted">
+          Since 2016, he has been serving at The Children’s Hospital & Institute of Child Health, one of the leading pediatric healthcare institutions in Pakistan.
+          He is part of the neurosurgery department, contributing to the treatment of delicate and life-saving pediatric brain and spine cases.
+        </p>
+        <p class="muted" style="margin-bottom:0;">
+          With extensive clinical experience and thousands of successfully managed cases, Dr. Malik is known for his precision, compassionate care, and dedication
+          to improving the lives of young patients. His focus remains on providing advanced neurosurgical care while ensuring a better and healthier future for every child.
+        </p>
+      </div>
+
+      <div class="card reveal">
+        <div style="display:flex;gap:14px;align-items:center;">
+          <img src="assets/profile.jpg" alt="Doctor Photo" style="width:88px;height:88px;border-radius:18px;object-fit:cover;border:1px solid var(--border);">
+          <div>
+            <div style="font-weight:950;font-size:1.15rem;">Dr Shahid Iqbal Malik</div>
+            <div class="small">MBBS (PB) • FCPS Pediatric Surgery • MS Pediatric Neurosurgery</div>
+          </div>
+        </div>
+
+        <hr class="hr">
+
+        <h3 class="card-title" style="margin:0 0 8px;">Qualifications</h3>
+        <ul class="muted" style="margin:0;padding-left:18px;">
+          <li>MBBS (PB)</li>
+          <li>FCPS Pediatric Surgery</li>
+          <li>MS Pediatric Neurosurgery</li>
+        </ul>
+
+        <hr class="hr">
+
+        <h3 class="card-title" style="margin:0 0 8px;">Experience</h3>
+        <div class="grid cards-2">
+          <div class="card" style="padding:12px;">
+            <div class="card-title">10+ Years</div>
+            <div class="small">Clinical Experience</div>
+          </div>
+          <div class="card" style="padding:12px;">
+            <div class="card-title">2016–Present</div>
+            <div class="small">Children’s Hospital Lahore</div>
+          </div>
+        </div>
+
+        <hr class="hr">
+        <div class="small">
+          <strong>Registration:</strong> (Add PMDC/License no. here if available)
+        </div>
+      </div>
+    </div>
+
+    <section class="section" style="padding-bottom:0;">
+      <div class="card reveal">
+        <h2 class="section-title" style="margin:0 0 10px;">Professional Timeline</h2>
+        <div class="grid cards-3">
+          <div class="card"><div class="card-title">Medical Education</div><div class="small">Quaid-e-Azam Medical College</div></div>
+          <div class="card"><div class="card-title">Service Since 2016</div><div class="small">The Children’s Hospital & Institute of Child Health</div></div>
+          <div class="card"><div class="card-title">5000+ Cases</div><div class="small">Successfully managed pediatric cases</div></div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</main>
+
+<footer>
+  <div class="container footer-grid">
+    <div>
+      <strong style="color:var(--text);">Dr Shahid Iqbal Malik</strong>
+      <div class="small">Pediatric Neurosurgery • Lahore</div>
+      <p class="small" style="margin-top:10px;">Excellence in Every Child’s Brain Care, Protecting Young Minds One Surgery at a Time.</p>
+    </div>
+    <div>
+      <strong style="color:var(--text);">Clinic</strong>
+      <div class="small">Lahore Care Hospital, Main Ferozepur Road, Ghazi Chowk, Lahore</div>
+      <div class="small">Mon–Sat: 04:00 PM – 07:00 PM</div>
+    </div>
+    <div>
+      <strong style="color:var(--text);">Contact</strong>
+      <div class="small"><a href="tel:+923064572592">Call: 0306 4572 592</a></div>
+      <div class="small"><a href="mailto:drshahidiqbalmalik@gmail.com">drshahidiqbalmalik@gmail.com</a></div>
+      <div class="small" style="margin-top:8px;">© <span id="y"></span> All rights reserved.</div>
+    </div>
+  </div>
+</footer>
+
+<a class="whatsapp-float" target="_blank" rel="noopener"
+   href="https://wa.me/923064572592?text=Assalam%20o%20Alaikum%2C%20I%20want%20to%20book%20an%20appointment%20for%20my%20child.">
+  💬 <span>Chat on WhatsApp</span>
+</a>
+
+<script src="js/main.js"></script>
+<script>document.getElementById("y").textContent = new Date().getFullYear();</script>
+</body>
+</html>
