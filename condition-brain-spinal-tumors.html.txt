@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pediatric Brain & Spinal Tumors | Dr Shahid Iqbal Malik</title>
+  <meta name="description" content="Pediatric brain and spinal cord tumors overview, symptoms and evaluation." />
+  <meta name="theme-color" content="#8A8F3A" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header" id="top">
+    <div class="container header-inner">
+      <a class="brand" href="index.html#top">
+        <img class="logo" src="assets/logo.png" alt="Clinic Logo" />
+        <div class="brand-text"><strong>Dr Shahid Iqbal Malik</strong><small>Pediatric Neurosurgeon</small></div>
+      </a>
+      <nav class="nav"><a href="conditions.html">Conditions</a><a href="index.html#appointment">Appointment</a></nav>
+      <div class="header-cta">
+        <a class="btn btn-soft" href="conditions.html">Back</a>
+        <a class="btn btn-primary" href="#" id="openWhatsAppTop">WhatsApp</a>
+        <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">☰</button>
+      </div>
+    </div>
+    <div class="mobile-nav" id="mobileNav" hidden>
+      <div class="container mobile-nav-inner"><a href="conditions.html">Conditions</a><a href="index.html#appointment">Appointment</a></div>
+    </div>
+  </header>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head"><h2>Pediatric Brain & Spinal Cord Tumors</h2><p class="muted">Educational overview (not a substitute for medical advice).</p></div>
+
+      <div class="card article">
+        <h3>Overview</h3>
+        <p>Brain and spinal cord tumors in children can present with different symptoms depending on location. Early evaluation is important.</p>
+
+        <h3>Possible Symptoms (Brain)</h3>
+        <ul class="list">
+          <li>Persistent headache (especially morning)</li>
+          <li>Vomiting without clear stomach cause</li>
+          <li>Seizures</li>
+          <li>Vision changes or imbalance</li>
+          <li>Behavior or school performance changes</li>
+        </ul>
+
+        <h3>Possible Symptoms (Spine)</h3>
+        <ul class="list">
+          <li>Back pain, weakness, numbness</li>
+          <li>Walking difficulty</li>
+          <li>Bladder/bowel issues</li>
+        </ul>
+
+        <h3>Evaluation & Treatment</h3>
+        <ul class="list">
+          <li>MRI/CT imaging + neurological examination</li>
+          <li>Multidisciplinary approach (neurosurgery, oncology, pediatrics)</li>
+          <li>Surgery, chemo/radiotherapy depending on diagnosis</li>
+        </ul>
+
+        <div class="note"><strong>Disclaimer:</strong> Educational only. Please consult for diagnosis and treatment.</div>
+
+        <div class="center" style="margin-top:14px;">
+          <a class="btn btn-primary" href="index.html#appointment">Book Appointment</a>
+          <a class="btn btn-outline" href="#" id="openWhatsAppMid">WhatsApp Chat</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <a class="wa-float" href="#" id="waFloat" aria-label="WhatsApp Chat"><span class="wa-icon" aria-hidden="true">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="none">
+      <path d="M20 11.8a8 8 0 0 1-11.9 7L4 20l1.4-3.9A8 8 0 1 1 20 11.8Z" stroke="white" stroke-width="1.8" stroke-linejoin="round"/>
+      <path d="M9.3 9.4c.3-.3.5-.3.8-.1l.8.6c.3.2.4.5.2.8l-.3.6c.6 1 1.5 1.8 2.5 2.4l.6-.3c.3-.2.6-.1.8.2l.6.8c.2.3.2.6-.1.8-.6.5-1.3.8-2 .7-1.8-.2-4.9-3-5.2-4.9-.1-.7.2-1.5.7-2Z" fill="white" opacity=".9"/>
+    </svg>
+  </span><span class="wa-text">WhatsApp</span></a>
+
+  <script src="script.js"></script>
+</body>
+</html>
