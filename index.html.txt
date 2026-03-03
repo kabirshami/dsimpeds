@@ -1,0 +1,94 @@
+<h1>Dr Shahid Iqbal Malik</h1>
+<p class="subtitle">MBBS(PB) • FCPS Pediatric Surgery • MS Pediatric Neurosurgery</p>
+
+<p class="text">
+Pediatric Neurosurgery Specialist<br>
+Assistant Professor, Pediatric Neurosurgery<br>
+Consultant Neonatal & Pediatric Neurosurgeon<br>
+Children's Hospital & University of Child Health Sciences, Lahore
+</p>
+
+<div class="cta">
+  <a class="btn" target="_blank" href="https://wa.me/923064572592">WhatsApp Now</a>
+</div>
+
+<div class="badges">
+  <span>✅ 12+ Years Experience</span>
+  <span>✅ 5000+ Successful Cases</span>
+  <span>✅ Advanced Pediatric Neurosurgery Care</span>
+</div>
+
+<h2>About</h2>
+
+<p class="text">
+Dr Shahid Iqbal Malik is a dedicated pediatric specialist with a strong focus on pediatric neurosurgery related care.
+Known for precision, compassion, and advanced clinical expertise, he has successfully managed over 5,000+ cases,
+delivering trusted outcomes for children and families.
+</p>
+
+<div class="grid2">
+  <div class="box">
+    <h3>Education</h3>
+    <p>MBBS – Quaid E Azam Medical College, Bahawalpur</p>
+    <p>FCPS – College of Physicians & Surgeons Pakistan (Pediatric Surgery)</p>
+  </div>
+
+  <div class="box">
+    <h3>Experience</h3>
+    <p>12+ Years of Clinical Experience</p>
+    <p>Specialized in Pediatric Neurosurgery</p>
+  </div>
+</div>
+
+<h2>Clinic Details</h2>
+
+<div class="grid2">
+  <div class="box">
+    <h3>Lahore Care Hospital</h3>
+    <p>Main Ferozepur Road, Ghazi Chowk Lahore</p>
+    <p><b>Clinic Timing:</b> 04:00 PM to 07:00 PM (Monday To Saturday)</p>
+    <p><b>Email:</b> drshahidiqbalmalik@gmail.com</p>
+    <p><b>WhatsApp:</b> 0306 4572 592</p>
+  </div>
+
+  <div class="box">
+    <h3>Quick Contact</h3>
+    <a class="btn" target="_blank" href="https://wa.me/923064572592">
+      Chat on WhatsApp
+    </a>
+  </div>
+</div>
+
+<a href="https://wa.me/923064572592" class="floating-whatsapp" target="_blank">
+  WhatsApp
+</a>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<div class="social-media">
+  <h3>Follow & Review</h3>
+  
+  <a href="https://facebook.com/drshahidiqbalmalik" target="_blank">
+    <i class="fab fa-facebook-f"></i>
+  </a>
+
+  <a href="https://instagram.com/drshahidiqbalmalik?igsh=ejd2NTc4cXI1eDl6" target="_blank">
+    <i class="fab fa-instagram"></i>
+  </a>
+
+  <a href="https://tiktok.com/@dr.shahid.iqbal.m?_r=1&_t=ZS-91N3Z28qPNw" target="_blank">
+    <i class="fab fa-tiktok"></i>
+  </a>
+
+  <a href="https://youtube.com/@drshahidiqbalmalik_peads?si=7X8bUcDHJPg8q-mv" target="_blank">
+    <i class="fab fa-youtube"></i>
+  </a>
+
+  <a href="https://g.page/r/Cc5_HkgIw6O0EAE/review" target="_blank">
+    <i class="fas fa-star"></i>
+  </a>
+
+</div>
+
+<img src="images/doctor.jpg" alt="Dr Shahid Iqbal Malik">
