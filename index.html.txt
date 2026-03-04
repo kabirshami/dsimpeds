@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Dr Shahid Iqbal Malik | Pediatric Neurosurgeon</title>
+
+<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<header class="top-header">
+
+<div class="header-left">
+
+<img src="assets/logo.png" class="logo" alt="Clinic Logo">
+
+<div>
+<h1>Dr Shahid Iqbal Malik</h1>
+<p>Consultant Neonatal & Pediatric Neurosurgeon</p>
+</div>
+
+</div>
+
+<nav>
+
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="conditions.html">Conditions</a>
+<a href="contact.html">Contact</a>
+<a href="reviews.html">Reviews</a>
+
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<div class="hero-text">
+
+<h2>Pediatric Neurosurgeon in Lahore</h2>
+
+<p>
+Children's Hospital & University of Child Health Science Lahore
+</p>
+
+<a class="btn" href="contact.html">Book Appointment</a>
+
+</div>
+
+
+<div class="hero-img">
+
+<img src="assets/doctor.jpg" class="doctor-photo" alt="Doctor">
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>Clinic Information</h2>
+
+<p>
+Lahore Care Hospital<br>
+Main Ferozepur Road Ghazi Road Lahore
+</p>
+
+<p>
+Clinic Timings: Monday to Saturday<br>
+04:00 PM to 07:00 PM
+</p>
+
+<p>
+Phone: 0306 4572592
+</p>
+
+</section>
+
+
+<footer>
+
+<p>© Dr Shahid Iqbal Malik</p>
+
+</footer>
+
+<a class="whatsapp" href="https://wa.me/923064572592" target="_blank">
+
+WhatsApp
+
+</a>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
